@@ -21,8 +21,4 @@ Run as administrator/root for full access. Only use on your own network ethicall
 - Scapy
 - PyQt5
 
-## 🖼️ Screenshot
-![Screenshot](screenshot.png)
 
-## 🔗 GitHub
-[https://github.com/your-username/PRODIGY_CS_05](https://github.com/your-username/PRODIGY_CS_05)
